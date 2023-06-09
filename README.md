@@ -13,8 +13,14 @@
 https://telegra.ph/Parsing-telegraph-06-09-02
 
 ## Работа 
-Для устновки введите в консоль\
-<code>git install https://github.com/hardworkerM/telegraph_parsing</code>
+1. Скачайте репозиторий 
+```
+git install https://github.com/hardworkerM/telegraph_parsing
+```
+2. Установите все билиотеки
+```
+pip install -r requirements.txt
+```
 
 - **key_words** - список ключевых слов для парсинга (Title)
 - **months** - месяца (в приницпе все 12)
